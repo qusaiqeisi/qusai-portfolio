@@ -230,13 +230,13 @@ Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
 
 Number and name of feature: __________Deploy and Extend Your Portfolio______________________
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: __4hour___
 
 Start time: ___1:37__
 
-Finish time: _____
+Finish time: ___5 clock__
 
-Actual time needed to complete: _____
+Actual time needed to complete: __3 hour___
 
 
 [deploy link](https://60d45ff3defd9408533df53e--distracted-lalande-52c34b.netlify.app/)
