@@ -410,22 +410,22 @@ class Landing extends React.Component {
                   </div> */}
                 </Col>
                 <Col className="order-lg-1" lg="6">
-                  <div className="d-flex px-3">
+                  {/* <div className="d-flex px-3">
                     <div>
                       <div className="icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary">
                         <i className="ni ni-building text-primary" />
                       </div>
                     </div>
-                    {/* <div className="pl-4">
+                    <div className="pl-4">
                       <h4 className="display-3 text-white">Modern Interface</h4>
                       <p className="text-white">
                         The Arctic Ocean freezes every winter and much of the
                         sea-ice then thaws every summer, and that process will
                         continue whatever.
                       </p>
-                    </div> */}
-                  </div>
-                  <Card className="shadow shadow-lg--hover mt-5">
+                    </div>
+                  </div> */}
+                  {/* <Card className="shadow shadow-lg--hover mt-5">
                     <CardBody>
                       <div className="d-flex px-3">
                         <div>
@@ -433,7 +433,7 @@ class Landing extends React.Component {
                             <i className="ni ni-satisfied" />
                           </div>
                         </div>
-                        {/* <div className="pl-4">
+                        <div className="pl-4">
                           <h5 className="title text-success">
                             Awesome Support
                           </h5>
@@ -449,11 +449,11 @@ class Landing extends React.Component {
                           >
                             Learn more
                           </a>
-                        </div> */}
+                        </div>
                       </div>
                     </CardBody>
-                  </Card>
-                  <Card className="shadow shadow-lg--hover mt-5">
+                  </Card> */}
+                  {/* <Card className="shadow shadow-lg--hover mt-5">
                     <CardBody>
                       <div className="d-flex px-3">
                         <div>
@@ -461,7 +461,7 @@ class Landing extends React.Component {
                             <i className="ni ni-active-40" />
                           </div>
                         </div>
-                        {/* <div className="pl-4">
+                        <div className="pl-4">
                           <h5 className="title text-warning">
                             Modular Components
                           </h5>
@@ -477,10 +477,10 @@ class Landing extends React.Component {
                           >
                             Learn more
                           </a>
-                        </div> */}
+                        </div>
                       </div>
                     </CardBody>
-                  </Card>
+                  </Card> */}
                 </Col>
               </Row>
             </Container>
