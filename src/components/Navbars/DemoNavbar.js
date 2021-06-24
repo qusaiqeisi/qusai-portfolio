@@ -179,10 +179,10 @@ class DemoNavbar extends React.Component {
                       <span className="nav-link-inner--text">menu</span>
                     </DropdownToggle>
                     <DropdownMenu>
-                      {/* <DropdownItem to="/portfolio" tag={Link}>
+                      <DropdownItem to="/landing-page" tag={Link}>
                         Landing
-                      </DropdownItem> */}
-                      <DropdownItem to="/Profile" tag={Link}>
+                      </DropdownItem>
+                      <DropdownItem to="/profile-page" tag={Link}>
                         Profile
                       </DropdownItem>
                       {/* <DropdownItem to="/login-page" tag={Link}>
