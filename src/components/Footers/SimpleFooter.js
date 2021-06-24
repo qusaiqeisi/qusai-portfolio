@@ -104,7 +104,7 @@ class SimpleFooter extends React.Component {
               </Col>
             </Row>
             <hr />
-            <Row className=" align-items-center justify-content-md-between">
+            {/* <Row className=" align-items-center justify-content-md-between">
               <Col md="6">
                 <div className=" copyright">
                   © {new Date().getFullYear()}{" "}
@@ -153,7 +153,7 @@ class SimpleFooter extends React.Component {
                   </NavItem>
                 </Nav>
               </Col>
-            </Row>
+            </Row> */}
           </Container>
         </footer>
       </>
