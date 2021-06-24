@@ -226,3 +226,17 @@ Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
 Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
+
+
+Number and name of feature: __________Deploy and Extend Your Portfolio______________________
+
+Estimate of time needed to complete: _____
+
+Start time: ___1:37__
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+
+[deploy link](https://60d45ff3defd9408533df53e--distracted-lalande-52c34b.netlify.app/)
